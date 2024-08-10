@@ -53,9 +53,9 @@ This repository is a blend of my technical journey and creative explorations. Ex
 
 I'm always excited to meet fellow tech enthusiasts, or anyone with a spark of curiosity. Let's make something amazing together!
 
-- My Linkedin: <a href="https://www.linkedin.com/in/reem-mohy-692b22226" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-- My Email: <a href="reem2002mohy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/reem-mohy-692b22226" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="reem2002mohy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-Thanks for stopping by! Dive in, explore, and let's turn ideas into reality. 🚀
+Thanks for stopping by! Dive in, explore, and Looking forward to connecting and creating! 🚀
 
-Happy coding (and dessert-making)! 🍰
+Happy Coding! 💻🎉
