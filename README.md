@@ -11,6 +11,35 @@ Hey there! 👋 I'm **Reem Mohy**, and you've just stumbled upon my little corne
 
 - **🍰 Dessert Lover:** When I'm not coding, you’ll find me in the kitchen whipping up some delicious treats.
 
+## 🛠 Technical Skills
+
+- **Programming Languages:**
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+    ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  
+- **Microcontroller Interfacing:**
+  - ![AVR MC](https://img.shields.io/badge/-AVR_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
+    ![ARM MC](https://img.shields.io/badge/-ARM_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
+    ![ESP](https://img.shields.io/badge/-ESP-003B57?style=flat-square&logo=espressif&logoColor=white)
+
+- **Software Tools:**
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+    ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+- **Development Tools:**
+  - ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+    ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+
+- **Design Tools:**
+  - ![Proteus](https://img.shields.io/badge/-Proteus-000080?style=flat-square&logo=proteus&logoColor=white)
+    ![Multisim](https://img.shields.io/badge/-Multisim-FF6600?style=flat-square&logo=multisim&logoColor=white)
+    ![PCB Layout](https://img.shields.io/badge/-PCB_Layout-8DB600?style=flat-square&logo=autodesk&logoColor=white)
+    ![Cadence](https://img.shields.io/badge/-Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white)
+    
 ## 🎯 What You'll Find Here
 
 This repository is a blend of my technical journey and creative explorations. Expect to see:
@@ -18,16 +47,14 @@ This repository is a blend of my technical journey and creative explorations. Ex
 - 🛠 **Innovative Projects:** From real-world automotive solutions to embedded systems experiments, it's all here.
 - 🎓 **Learning and Growth:** Code snippets, research, and everything that fuels my love for technology.
 - 🌍 **Collaborative Efforts:** I believe in the power of teamwork. Some of my best work has come from sharing ideas and building with others.
+- 📄 **My CV:** You can view and download my CV [here](https://drive.google.com/file/d/1EjXhm6zhnqalB3PtgrANtdmrtB14ZT0Z/view?usp=drive_link).
 
 ## 🌐 Let's Connect!
 
-I'm always excited to meet fellow tech enthusiasts, dessert aficionados, or anyone with a spark of curiosity. Let's make something amazing together!
+I'm always excited to meet fellow tech enthusiasts, or anyone with a spark of curiosity. Let's make something amazing together!
 
-- **📧 Shoot me an email:** [reem2002mohy@gmail.com]
-- **💼 Connect on LinkedIn:** [Your LinkedIn Profile]
-- **🐦 Follow my thoughts on Twitter:** [Your Twitter Handle]
-
----
+- My Linkedin: <a href="https://www.linkedin.com/in/reem-mohy-692b22226" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+- My Email: <a href="reem2002mohy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 Thanks for stopping by! Dive in, explore, and let's turn ideas into reality. 🚀
 
