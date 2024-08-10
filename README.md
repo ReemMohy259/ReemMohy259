@@ -3,10 +3,13 @@
 Hey there! 👋 I'm **Reem Mohy**, and you've just stumbled upon my little corner of the tech universe. Whether you're here to explore, collaborate, or just satisfy your curiosity, I'm thrilled to have you.
 
 ## 🚀 About Me
+- **🎓 Senior Student:** I’m a senior syudent at Cairo University, Electronics and Communication Departement. This stage of my learning journey is both exciting and challenging as I prepare to transition from academia to the professional world.
 
-- **🚗 Embedded Systems Enthusiast:** I live and breathe embedded systems, with a special love for automotive technologies. My passion drives me to explore the intersection of software and hardware, crafting solutions that bring machines to life.
-- **💡 Innovation Seeker:** From tinkering with Zigbee networks to diving deep into Software-Defined Vehicles (SDV), I'm always on the lookout for the next big challenge. My current fascination? Intelligent Traffic Management Systems (ITMS) using 5G V2X technology.
-- **🍰 Dessert Lover:** When I'm not coding, you’ll find me in the kitchen whipping up some delicious treats. My latest obsession? 'Ashtota,' the Egyptian twist on tres leches – sweet, creamy, and utterly irresistible.
+- **🚗 Embedded Systems Specialist:** I’m deeply involved in the world of embedded systems, with a particular interest in automotive technologies. My hands-on experience and projects have given me a solid understanding of how to integrate software and hardware, allowing me to develop practical solutions that enhance the functionality and performance of various systems.
+
+- **💡 Innovation Enthusiast:** I’m passionate about exploring new technologies and their potential to revolutionize the automotive industry. I strive to stay ahead of trends and breakthroughs, constantly seeking innovative solutions that can advance automotive technology and drive the future of transportation.
+
+- **🍰 Dessert Lover:** When I'm not coding, you’ll find me in the kitchen whipping up some delicious treats.
 
 ## 🎯 What You'll Find Here
 
