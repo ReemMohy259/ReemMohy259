@@ -47,7 +47,7 @@ This repository is a blend of my technical journey and creative explorations. Ex
 - 🛠 **Innovative Projects:** From real-world automotive solutions to embedded systems experiments, it's all here.
 - 🎓 **Learning and Growth:** Code snippets, research, and everything that fuels my love for technology.
 - 🌍 **Collaborative Efforts:** I believe in the power of teamwork. Some of my best work has come from sharing ideas and building with others.
-- 📄 **My CV:** You can view and download my CV [here](https://drive.google.com/file/d/1EjXhm6zhnqalB3PtgrANtdmrtB14ZT0Z/view?usp=drive_link).
+- 📄 **My CV:** You can view and download my CV [here](https://drive.google.com/file/d/1XpoPJ4esgkR-JE7LZ3NzZEU3KRmWfMDY/view?usp=sharing).
 
 ## 🌐 Let's Connect!
 
